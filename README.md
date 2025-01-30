@@ -21,3 +21,4 @@
 6.	We'll set the debug flag to true, so we can view any applicable error messages if something goes wrong, and so that the local server automatically reloads after we've made changes to the code.
 7.	 When we visited http://127.0.0.1:5000/, main.py had code in it, which mapped the URL / to the Python function index().
 8.	index() found the web template index.html in the templates/ folder, rendered it to HTML, and sent it back to the browser.
+# Liver-Disease-Prediction-Project-main
